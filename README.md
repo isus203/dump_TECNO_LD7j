@@ -1,0 +1,20 @@
+## sys_tssi_64_tecno-user 10 QP1A.190711.020 108291 release-keys
+- Manufacturer: tecno mobile limited
+- Platform: mt6768
+- Codename: TECNO-LD7j
+- Brand: TECNO
+- Flavor: sys_tssi_64_tecno-user
+- Release Version: 10
+- Kernel Version: 4.14.141
+- Id: QP1A.190711.020
+- Incremental: 220927V289
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: TECNO/LD7j-AS/TECNO-LD7j:10/QP1A.190711.020/220927V180:user/release-keys
+- OTA version: 
+- Branch: sys_tssi_64_tecno-user-10-QP1A.190711.020-108291-release-keys
+- Repo: tecno_tecno-ld7j_dump
